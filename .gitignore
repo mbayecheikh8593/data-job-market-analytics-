@@ -4,3 +4,6 @@ __pycache__/
 *.pyc
 data/raw/*.json
 .DS_Store
+.env.save
+scripts/Résultat de Terminal.txt
+data/
