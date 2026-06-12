@@ -7,3 +7,4 @@ data/raw/*.json
 .env.save
 scripts/Résultat de Terminal.txt
 data/
+*.json
